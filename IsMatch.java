@@ -1,3 +1,4 @@
+//Implement regular expression matching with support for '.' and '*'.
 public class IsMatch {
     public boolean isMatch(String s, String p) {
         int m = s.length();
